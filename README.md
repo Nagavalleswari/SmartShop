@@ -28,27 +28,26 @@ This project is developed for the **Kaggle Agents Intensive Capstone Project (Co
 
 ## 📁 Project Structure
 
-smartshop_repo/
+martshop_repo/
 │── README.md
 │── requirements.txt
 │── demo_notebook.ipynb
 │── smartshop/
-├── main.py
-├── init.py
-├── agents/
-│ ├── planner_agent.py
-│ └── recipe_agent.py
-├── tools/
-│ ├── recipe_search_tool.py
-│ ├── pantry_tool.py
-│ └── price_estimator.py
-├── memory/
-│ └── memory_bank.py
-└── data/
-└── recipes.json
+│ ├── main.py
+│ ├── init.py
+│ ├── agents/
+│ │ ├── planner_agent.py
+│ │ └── recipe_agent.py
+│ ├── tools/
+│ │ ├── recipe_search_tool.py
+│ │ ├── pantry_tool.py
+│ │ └── price_estimator.py
+│ ├── memory/
+│ │ └── memory_bank.py
+│ └── data/
+│ └── recipes.json
 
 
----
 
 ## ▶️ Running the Project
 
