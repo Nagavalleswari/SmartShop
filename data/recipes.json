@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Veg Stir Fry with Noodles",
+    "duration_minutes": 30,
+    "tags": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "broccoli",
+        "qty": 1
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1
+      },
+      {
+        "name": "noodles",
+        "qty": 200
+      }
+    ]
+  },
+  {
+    "title": "Tomato Pasta",
+    "duration_minutes": 25,
+    "tags": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "tomato",
+        "qty": 3
+      },
+      {
+        "name": "pasta",
+        "qty": 200
+      },
+      {
+        "name": "olive oil",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "title": "Banana Oat Smoothie",
+    "duration_minutes": 10,
+    "tags": [
+      "vegetarian",
+      "breakfast"
+    ],
+    "ingredients": [
+      {
+        "name": "banana",
+        "qty": 2
+      },
+      {
+        "name": "milk",
+        "qty": 1
+      },
+      {
+        "name": "oats",
+        "qty": 50
+      }
+    ]
+  }
+]
